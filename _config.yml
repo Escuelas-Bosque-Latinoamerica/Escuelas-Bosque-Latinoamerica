@@ -1,6 +1,6 @@
 # Site settings
 title: Escuelas Bosque Latinoamerica
-email: your-email@domain.com
+email: info@escuelabosque.org
 description: > # this means to ignore newlines until "baseurl:"
   Inicitaiva que promueve el modelo pedagógico internacional del Aprendizaje en la Naturaleza en América Latina. También conocido como Escuelas Bosque o Bosquescuelas.
 baseurl: "" # the subpath of your site, e.g. /blog/
